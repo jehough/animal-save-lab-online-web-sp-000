@@ -21,9 +21,9 @@ html {
 /* Write your solution here */
 @media screen and (max-width: 1099px){
   #dolphin{
-    -webkit-transform: rotate(0.75 turn);
-        -ms-transform: rotate(0.75 turn);
-            transform: rotate(0.75 turn);
+    -webkit-transform: rotate(300deg);
+        -ms-transform: rotate(300deg);
+            transform: rotate(300deg);
     position: absolute;
     top: 150px;
   }
